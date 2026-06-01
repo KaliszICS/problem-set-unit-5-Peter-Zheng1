@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-public class ProblemSet {
+public class TextAnalyzer {
 
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);

@@ -1,0 +1,10 @@
+K(30%): 90
+I(30%): 86
+C(10%): 100
+A(30%): 88
+88.2%
+
+Use functions to break up your code so that it is easier to read and edit.
+Remove all punctuation not just the ones in the example.
+You never removed the common words.
+Otherwise good work.
